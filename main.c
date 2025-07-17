@@ -13,3 +13,7 @@ int  main(){
 	// push
 	// pull
 }
+
+int main(){
+	int nan = 0;
+}
